@@ -1,11 +1,11 @@
-{
+
   "name": "ALI-MD",
   "version": "3.0.0",
   "description": "A WhatsApp Bot Created By ALI",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name ALI-MD",
-    "stop": "pm2 stop ALI-MD",
+    "stop": "pm2 stop ALI-MD"https://youtu.be/B5Ab_X9Lht0?si=npOKGPPcEoa4_xpO",
     "restart": "pm2 restart ALI-MD"
   },
   "dependencies": {
